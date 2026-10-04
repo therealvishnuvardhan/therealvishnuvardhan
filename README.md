@@ -38,11 +38,10 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=therealvishnuvardhan&layout=compact&langs_count=8&bg_color=0a0e14&title_color=9ecbff&text_color=8796a8&border_color=1c2633&border_radius=4&custom_title=%2F%2F%20LANGUAGE%20DISTRIBUTION" height="175" alt="Top languages" />
-  <img src="https://github-profile-trophy.vercel.app/?username=therealvishnuvardhan&no-frame=true&no-bg=true&margin-w=6&row=2&column=3&theme=nord" height="175" alt="Trophies" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=therealvishnuvardhan&bg_color=0a0e14&color=8796a8&line=9ecbff&point=e0b36a&area=true&area_color=9ecbff&title_color=9ecbff&hide_border=false&radius=4&custom_title=%2F%2F%20ACTIVITY%20%C2%B7%20LAST%2031%20DAYS" width="100%" alt="Contribution activity graph" />
+  <img src="./profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D contribution skyline" />
 </p>
 
 <img src="./assets/h-matrix.svg" width="100%" alt="05 Contribution matrix" />
